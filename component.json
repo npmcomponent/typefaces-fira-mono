@@ -1,0 +1,11 @@
+{
+  "name": "fira-mono",
+  "repo": "typefaces/fira-mono",
+  "description": "The Fira Mono typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "typefaces/fira-mono-regular": "*",
+    "typefaces/fira-mono-bold": "*"
+  }
+}
