@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-fira-mono",
+  "description": "The Fira Mono typeface.",
+  "version": "0.0.1",
+  "dependencies": {
+    "typefaces-fira-mono-regular": "git://github.com/npmcomponent/typefaces-fira-mono-regular.git",
+    "typefaces-fira-mono-bold": "git://github.com/npmcomponent/typefaces-fira-mono-bold.git"
+  },
+  "license": "MIT"
+}
